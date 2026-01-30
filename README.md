@@ -1,2 +1,2 @@
 # proyek3
-ini adalah repository untuk projek ke 3
+membuat program to do list
